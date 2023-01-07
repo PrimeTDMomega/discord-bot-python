@@ -62,7 +62,7 @@ For a chat bot you will need a few things installed on your PC which are the fol
 3.  Run the Python script on your machine. The bot should now be connected to your server and ready to respond to commands.
 
 ## Code Template 
-Code template for you to get started can be found [here]()
+Code template for you to get started can be found [here](https://github.com/PrimeTDMomega/discord-bot-python/tree/main/scripts/chat-bot)
 
 
 # Image Bot
@@ -119,7 +119,7 @@ A few things again you will need for this bot. They are -
 You'll need to replace `YOUR_API_KEY` and `YOUR_SEARCH_ENGINE_ID` with your API key and search engine ID, respectively, which you can get from the Google Cloud Console. You'll also need to replace `YOUR_BOT_TOKEN_HERE` with your bot's token, which you can get from the Discord Developer Portal.
 
 ## Code Template
-The code template can be found [here]()
+The code template can be found [here](https://github.com/PrimeTDMomega/discord-bot-python/tree/main/scripts/image-bot)
 
 # Credits
 [PrimeTDMomega](https://github.com/PrimeTDMomega/) - Creating Bot
