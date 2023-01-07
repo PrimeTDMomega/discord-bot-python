@@ -3,19 +3,18 @@ So you've always wanted to impress your friends with a discord bot or just get t
 
 ## Contents
 
- - Chat Bot
+ - [Chat Bot](https://github.com/PrimeTDMomega/discord-bot-python#chat-bot)
     - Requirements
-       - Prerequisites
-       - Discord
-    - Step-by-Step Guide
-    - Code Template
-- Image Bot
-   - Requirements
-   - How to use Google Images
-   - Step-by-Step Guide
-   - Code Template
-- Credits
-- LICENSE
+       - [Prerequisets](https://github.com/PrimeTDMomega/discord-bot-python#requirements)
+       - [Discord](https://github.com/PrimeTDMomega/discord-bot-python#discord)
+    - [Step-by-Step](https://github.com/PrimeTDMomega/discord-bot-python#step-by-step-guide)
+    - [Code Template](https://github.com/PrimeTDMomega/discord-bot-python#code-template)
+- [Image Bot](https://github.com/PrimeTDMomega/discord-bot-python#image-bot)
+   - [Requirements](https://github.com/PrimeTDMomega/discord-bot-python#requirements-1)
+   - [Step-by-Step Guide](https://github.com/PrimeTDMomega/discord-bot-python#step-by-step-guide-1)
+   - [Code Template](https://github.com/PrimeTDMomega/discord-bot-python#code-template)
+- [Credits](https://github.com/PrimeTDMomega/discord-bot-python#credits)
+- [LICENSE](https://github.com/PrimeTDMomega/discord-bot-python#license)
 
 # Chat Bot
 ### Requirements
