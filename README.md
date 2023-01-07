@@ -138,4 +138,4 @@ If you use  **ANY**  code from the source for an obfuscated / closed-src project
 
 _If you have any other questions, check our  [FAQ]https://dsc.gg/witheredknights)  or ask in our  [Discord](https://dsc.gg/witheredknights)  server._
 
-( Look I had to add this part don't take be that serious but yea )
+( Look I had to add this part don't take it that seriously but yea )
