@@ -1,6 +1,8 @@
 # Discord Development
 So you've always wanted to impress your friends with a discord bot or just get that SWEET SWEET `Active Developer` badge on discord. Well I'm here to help, in this repository you will be able to build your own discord bot with step-by-step explainations and pre-made templates to get you started ! All in your favorite language [PYTHON](https://www.python.org) !
 
+I'll try my best to make the code samples better and I want to make another branch with a sort of advanced bot that maybe has both Chat and Image features, I haven't gotten around to doing it till now but if anyone wants to make this repository better by adding some cool functionality then contact me [here](https:dsc.gg/witheredknights) or just DM me on Discord @ prime#6679
+
 ## Contents
 
  - [Chat Bot](https://github.com/PrimeTDMomega/discord-bot-python#chat-bot)
